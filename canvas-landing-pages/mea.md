@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">Intro to Kubernetes</span>
@@ -10,15 +9,15 @@ This module provides an introduction to Kubernetes, a powerful container orchest
 
 ## Content
 
-| Lesson                                                                                                | Est. Delivery Time | Skills                                                                                                           |
-| ----------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------- |
+| Lesson                                                                                               | Est. Delivery Time | Skills                                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------- |
 | [What is Kubernetes?](../what-is-kubernetes/README.md)                                                |       10 min       | Understand the purpose of Kubernetes and its role in managing containerized applications.                        |
 | [How does Kubernetes work?](../how-does-kubernetes-work/README.md)                                    |       15 min       | Learn how Kubernetes orchestrates containers using its components, like nodes, pods, and the control plane.      |
 | [Kubernetes Core Features and Limitations](../kubernetes-core-features-and-limitations/README.md)     |       15 min       | Explore key features of Kubernetes (scalability, self-healing, etc.) and recognize its limitations.              |
 | [Kubernetes Terminology](../kubernetes-terminology/README.md)                                         |       10 min       | Familiarize yourself with foundational Kubernetes terms such as pods, services, deployments, and namespaces.     |
 | [Managing Kubernetes Clusters with `kubectl`](../managing-kubernetes-clusters-with-kubectl/README.md) |       15 min       | Learn how to interact with and configure Kubernetes clusters using `kubectl` commands.                           |
 | [Probes and Health Checks in Kubernetes](../probes-and-health-checks-in-kubernetes/README.md)         |       15 min       | Understand container probes, their types (liveness, readiness, startup), and how they ensure application health. |
-| **Total content**                                                                                     |       80 min       |                                                                                                                  |
+| **Total content**                                                                                    |       80 min       |                                                                                                                  |
 
 ## References
 

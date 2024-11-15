@@ -2,30 +2,45 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+whatIsKubernetes = new Template.Microlesson {
+  friendlyName = "What is Kubernetes?"
+  dirName = "what-is-kubernetes"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+howDoesKubernetesWork = new Template.Microlesson {
+  friendlyName = "How does Kubernetes work?"
+  dirName = "how-does-kubernetes-work"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+kubernetesCoreFeaturesAndLimitations = new Template.Microlesson {
+  friendlyName = "Kubernetes Core Features and Limitations"
+  dirName = "kubernetes-core-features-and-limitations"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+kubernetesTerminology = new Template.Microlesson {
+  friendlyName = "Kubernetes Terminology"
+  dirName = "kubernetes-terminology"
   type = "Content"
   videoUrl = ""
 }
+
+managingKubernetesClustersWithKubectl = new Template.Microlesson {
+  friendlyName = "Managing Kubernetes Clusters with kubectl"
+  dirName = "managing-kubernetes-clusters-with-kubectl"
+  type = "Content"
+  videoUrl = ""
+}
+
+probesAndHealthChecksInKubernetes = new Template.Microlesson {
+  friendlyName = "Probes and Health Checks in Kubernetes"
+  dirName = "probes-and-health-checks-in-kubernetes"
+  type = "Content"
+  videoUrl = ""
+}
+

@@ -1,21 +1,23 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to Kubernetes</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module provides an introduction to Kubernetes, a powerful container orchestration platform, and its core concepts. Learners will explore what Kubernetes is, how it works, and its key features and limitations. They will gain familiarity with essential Kubernetes terminology and learn to interact with clusters using kubectl. The module also covers probes and health checks, explaining how Kubernetes ensures application health and maintains high availability. By the end, learners will have a foundational understanding of Kubernetes and its role in managing containerized applications.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| Lesson                                                                                               | Est. Delivery Time | Skills                                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------- |
+| [What is Kubernetes?](./what-is-kubernetes/README.md)                                                |       10 min       | Understand the purpose of Kubernetes and its role in managing containerized applications.                        |
+| [How does Kubernetes work?](./how-does-kubernetes-work/README.md)                                    |       15 min       | Learn how Kubernetes orchestrates containers using its components, like nodes, pods, and the control plane.      |
+| [Kubernetes Core Features and Limitations](./kubernetes-core-features-and-limitations/README.md)     |       15 min       | Explore key features of Kubernetes (scalability, self-healing, etc.) and recognize its limitations.              |
+| [Kubernetes Terminology](./kubernetes-terminology/README.md)                                         |       10 min       | Familiarize yourself with foundational Kubernetes terms such as pods, services, deployments, and namespaces.     |
+| [Managing Kubernetes Clusters with `kubectl`](./managing-kubernetes-clusters-with-kubectl/README.md) |       15 min       | Learn how to interact with and configure Kubernetes clusters using `kubectl` commands.                           |
+| [Probes and Health Checks in Kubernetes](./probes-and-health-checks-in-kubernetes/README.md)         |       15 min       | Understand container probes, their types (liveness, readiness, startup), and how they ensure application health. |
+| **Total content**                                                                                    |       80 min       |                                                                                                                  |
 
 ## References
 
@@ -25,32 +27,14 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- Intro to Docker
+- Running Your First Docker Container
+- Container Orchestration
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](./canvas-landing-pages/tktk-course-acronym.md)
-- [Fallback](./canvas-landing-pages/fallback.md)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-kubernetes/canvas-landing-pages/mea.md)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-kubernetes/canvas-landing-pages/fallback.md)
 
 ### Resources
 
