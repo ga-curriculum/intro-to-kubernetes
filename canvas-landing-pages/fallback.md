@@ -18,9 +18,9 @@ This module provides an introduction to Kubernetes, a powerful container orchest
 | [Kubernetes Terminology](../kubernetes-terminology/README.md)                                         |       10 min       | Familiarize yourself with foundational Kubernetes terms such as pods, services, deployments, and namespaces.     |
 | [Managing Kubernetes Clusters with `kubectl`](../managing-kubernetes-clusters-with-kubectl/README.md) |       15 min       | Learn how to interact with and configure Kubernetes clusters using `kubectl` commands.                           |
 | [Probes and Health Checks in Kubernetes](../probes-and-health-checks-in-kubernetes/README.md)         |       15 min       | Understand container probes, their types (liveness, readiness, startup), and how they ensure application health. |
-| [Scaling Kubernetes without Disruption](../scaling-kubernetes-without-disruption/README.md)           |       10 min       |                                                                                                                  |
-| [Managed vs Unmanaged Kubernetes](../managed-vs-unmanaged-kubernetes/README.md)                       |       10 min       |                                                                                                                  |
-| [Kubernetes Pros and Cons](../kubernetes-pros-and-cons/README.md)                                     |       10 min       |                                                                                                                  |
+| [Scaling Kubernetes without Disruption](../scaling-kubernetes-without-disruption/README.md)           |       10 min       | Learn how Kubernetes scales pods dynamically and handles failures to ensure uninterrupted application service.   |
+| [Managed vs Unmanaged Kubernetes](../managed-vs-unmanaged-kubernetes/README.md)                       |       10 min       | Compare managed and unmanaged Kubernetes options and identify their benefits and challenges.                     |
+| [Kubernetes Pros and Cons](../kubernetes-pros-and-cons/README.md)                                     |       10 min       | Evaluate the strengths and weaknesses of Kubernetes to determine its suitability for various scenarios.          |
 | **Total content**                                                                                     |      110 min       |                                                                                                                  |
 
 ## References
