@@ -30,3 +30,9 @@
 - [How Complex Systems Fail](https://queue.acm.org/detail.cfm?id=2898444)
 
 - [Google Cloud Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
+
+- [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)
+
+- [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine)
+
+- [Minikube](https://minikube.sigs.k8s.io/docs/)

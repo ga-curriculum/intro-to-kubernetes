@@ -30,6 +30,9 @@ courses {
       mls.kubernetesTerminology
       mls.managingKubernetesClustersWithKubectl
       mls.probesAndHealthChecksInKubernetes
+      mls.scalingKubernetesWithoutDisruption
+      mls.managedVsUnmanagedKubernetes
+      mls.kubernetesProsAndCons
     }
   }
   new {
@@ -42,6 +45,9 @@ courses {
       mls.kubernetesTerminology
       mls.managingKubernetesClustersWithKubectl
       mls.probesAndHealthChecksInKubernetes
+      mls.scalingKubernetesWithoutDisruption
+      mls.managedVsUnmanagedKubernetes
+      mls.kubernetesProsAndCons
     }
   }
 }

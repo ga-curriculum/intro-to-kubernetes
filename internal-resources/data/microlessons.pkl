@@ -44,3 +44,23 @@ probesAndHealthChecksInKubernetes = new Template.Microlesson {
   videoUrl = ""
 }
 
+scalingKubernetesWithoutDisruption = new Template.Microlesson {
+  friendlyName = "Scaling Kubernetes without Disruption"
+  dirName = "scaling-kubernetes-without-disruption"
+  type = "Content"
+  videoUrl = ""
+}
+
+managedVsUnmanagedKubernetes = new Template.Microlesson {
+  friendlyName = "Managed vs Unmanaged Kubernetes"
+  dirName = "managed-vs-unmanaged-kubernetes"
+  type = "Content"
+  videoUrl = ""
+}
+
+kubernetesProsAndCons = new Template.Microlesson {
+  friendlyName = "Kubernetes Pros and Cons"
+  dirName = "kubernetes-pros-and-cons"
+  type = "Content"
+  videoUrl = ""
+}
