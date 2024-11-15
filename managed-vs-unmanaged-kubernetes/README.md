@@ -34,8 +34,6 @@ Unmanaged clusters are typically used by organizations with complex, specific re
 
 ## Minikube: A local Kubernetes option
 
-<br>
-
 <img src="./assets/minikube-main.png" alt="Minikube Logo" style="width:200px;"/>
 
 <br>
