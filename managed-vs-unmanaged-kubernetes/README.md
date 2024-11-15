@@ -36,8 +36,6 @@ Unmanaged clusters are typically used by organizations with complex, specific re
 
 <img src="./assets/minikube-main.png" alt="Minikube Logo" style="width:200px;"/>
 
-<br>
-
 For local development, [**Minikube**](https://minikube.sigs.k8s.io/docs/) is a great tool to simulate a Kubernetes environment. Minikube is a lightweight, single-node Kubernetes cluster that runs on your local machine. It's supported on Windows, Linux, and macOS.
 
 ### Why use Minikube?
